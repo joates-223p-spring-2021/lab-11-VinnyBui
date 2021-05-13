@@ -1,4 +1,4 @@
-from Alien_Invasion import AlienInvasion
+from alien_invasion import AlienInvasion
 import pygame
 
 
